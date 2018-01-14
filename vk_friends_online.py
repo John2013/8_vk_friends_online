@@ -7,13 +7,11 @@ APP_ID = 6331864
 
 
 def get_user_login():
-    return '+79997912013'
-    # return input('Введите логин: ')
+    return input('Введите логин: ')
 
 
 def get_user_password():
-    return '86421357Jt'
-    # return getpass('Введите пароль: ')
+    return getpass('Введите пароль: ')
 
 
 def get_online_friends(login, password):
