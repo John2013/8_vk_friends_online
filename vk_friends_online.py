@@ -1,5 +1,4 @@
 from getpass import getpass
-from pprint import pprint
 
 import vk
 
